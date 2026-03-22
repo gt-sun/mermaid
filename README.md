@@ -3,7 +3,7 @@ Let's mermaid
 
 **知识点**：
 
-- `graph TD`：TD 表示从上到下 (Top-Down)，LR 表示从左到右 (Left-Right)。
+- `graph TD`：TD 表示从上到下 (Top-Down)，LR 表示从左到右 (Left-Right)。 Instead of `flowchart` one can also use `graph`.
 - `[]`：圆角矩形（普通节点）。
 - `()`：圆角椭圆（开始/结束）。
 - `{}`：菱形（判断/决策）。
